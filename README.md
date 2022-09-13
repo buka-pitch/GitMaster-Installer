@@ -1,1 +1,1 @@
-# An Installer & Updater program for the GitMaster
+# An Installer & Updater program for the 
